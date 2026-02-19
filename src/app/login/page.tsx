@@ -119,7 +119,7 @@ export default function LoginPage() {
           </AuthButton>
 
           <div className="mt-6 text-center text-sm text-zinc-400">
-            Don&apos;t have an account?{" "}
+            {" "}
             {/*<Link
                             href="/register"
                             className="text-accent hover:text-accent/80 font-medium transition-colors hover:underline"
