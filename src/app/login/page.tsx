@@ -118,7 +118,7 @@ export default function LoginPage() {
             Login
           </AuthButton>
 
-          <div className="mt-6 text-center text-sm text-zinc-400">
+          {/*<div className="mt-6 text-center text-sm text-zinc-400">
             {" "}
             {/*<Link
                             href="/register"
@@ -126,7 +126,7 @@ export default function LoginPage() {
                         >
                             Register Here
                         </Link>*/}
-          </div>
+          </div>*/}
         </form>
       </AuthCard>
     </div>
